@@ -1,0 +1,8 @@
+index.php
+search.php
+cron.php
+login.php
+xmlrpc.php
+license.txt
+install.php
+index.html

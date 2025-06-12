@@ -1,0 +1,1 @@
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
